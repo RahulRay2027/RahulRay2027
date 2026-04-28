@@ -49,7 +49,7 @@
 
 ## 🧩 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/t02NSc3Sgb?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/RahulRay144?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
