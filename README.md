@@ -82,7 +82,7 @@
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rahulray144">LinkedIn</a> •
-  <a href="https://leetcode.com/u/t02NSc3Sgb">LeetCode</a> •
+  <a href="https://leetcode.com/u/RahulRay144">LeetCode</a> •
   <a href="mailto:tringlehavethreeside@gmail.com">Email</a>
 </p>
 
